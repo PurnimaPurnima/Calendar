@@ -13,5 +13,5 @@ while i in range(1,13):
 			l=0
 		j+=1
 	i+=1
-print "Number of Sundays=",k
+print "Number of Sundays in",a,"=",k
 	
